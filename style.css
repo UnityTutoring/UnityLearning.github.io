@@ -1,0 +1,63 @@
+body{
+	background-color: #091a28;
+	color: #cdcdcd;
+}
+
+
+header{
+	width: 100%;
+	height: 90px;
+	background-color: #0e2638;
+}
+.MainHeaderContent{
+	height: 93%;
+	background-color: #0e2638;
+}
+.MainHeaderUnderLine{
+	width: 100%;
+	height: 7%;
+	background-color: #4a5c6a;
+}
+
+
+content{
+	width: 100%;
+	height: 1080px;
+	background-color: #ffffff;
+}
+.MainIntro{
+	height: 810px;
+	background-color: #293b49;
+}
+.IntroBlock{
+	margin: 10%;
+	font-family: "Times New Roman 14";
+	font-size: 30px;
+}
+.MainContent{
+	height: 3200px;
+	background-color: #0789b6;
+}
+.MainHelpInfo{
+	height: 600px;
+	background-color: #e1e1e1;
+}
+.MainAboutInfo{
+	height: 850px;
+	background-color: #414e59;
+}
+
+
+footer{
+	width: 100%;
+	height: 470px;
+	background-color: #2f2f2f;
+}
+.MainFooterContent{
+	height: 400px;
+	background-color: #2f2f2f;
+}
+.MainFooterCopyright{
+	height: 220px;
+	background-color: #494949;
+}
